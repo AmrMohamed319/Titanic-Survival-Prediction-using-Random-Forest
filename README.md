@@ -40,3 +40,7 @@ To run this project, you need the following libraries:
 You can install the required libraries using pip:
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+```
+For more details, visit the Kaggle Notebook:
+https://www.kaggle.com/code/amrmohamed319/titanic-solution-using-random-forest
+
